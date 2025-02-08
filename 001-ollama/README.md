@@ -1,6 +1,10 @@
 # Ollama
 
 
+|本期版本|上期版本
+|:---:|:---:
+`Sat Feb  8 12:34:22 CST 2025` | -
+
 
 ```bash
 curl localhost:11434
