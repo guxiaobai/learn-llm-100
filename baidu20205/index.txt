@@ -1,0 +1,166 @@
+.
+├── 本地部署教程（全平台）
+│   ├── 手机本地部署教程
+│   │   ├── DeepSeek 手机离线部署教程(苹果)
+│   │   │   ├── DeepSeek 苹果手机离线部署.png
+│   │   │   └── DeepSeek 苹果手机离线部署步骤.docx
+│   │   ├── DeepSeek 手机离线部署教程（安卓）
+│   │   │   ├── DeepSeek安卓手机端本地部署步骤（新）.docx
+│   │   │   └── termux-app_v0.118.1+github-debug_arm64-v8a.apk
+│   │   └── 【手机版】Deepseek R1 满血版(671B模型)
+│   │       ├── API.txt
+│   │       └── 【手机版】Deepseek R1 满血版(671B模型).pdf
+│   └── 电脑本地部署教程
+│       ├── DeepSeek 本地部署 可视界面版（Ollama+Chatbox）
+│       │   ├── 1.安装文件
+│       │   │   ├── Chatbox-1.9.1-Setup.exe
+│       │   │   ├── MAC安装包
+│       │   │   │   ├── Ollama-darwin.zip
+│       │   │   │   └── chatbox
+│       │   │   │       ├── M系列芯片
+│       │   │   │       │   └── Chatbox-1.9.5-arm64.dmg
+│       │   │   │       └── inter芯片
+│       │   │   │           └── Chatbox-1.9.5.dmg
+│       │   │   └── OllamaSetup.exe
+│       │   ├── 2.视频教程
+│       │   │   ├── 1.电脑上安装ollama软件.mp4
+│       │   │   ├── 2.网页在线安装大模型.mp4
+│       │   │   ├── 3.电脑端本地导入大模型教程.mp4
+│       │   │   └── 4.安装chatbox用户界面并测试使用.mp4
+│       │   ├── 3.大模型
+│       │   │   ├── 2月更新Deepseek14B模型
+│       │   │   │   └── deepseek-r1-distill-qwen-14b-q4_k_m.gguf
+│       │   │   ├── 2月更新Deepseek32B模型
+│       │   │   │   └── 推荐N卡独显8g以上使用
+│       │   │   │       └── DeepSeek-R1-Distill-Qwen-32B-Q4_K_M.gguf
+│       │   │   ├── 2月更新Deepseek8B模型_
+│       │   │   │   └── DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf
+│       │   │   ├── DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf
+│       │   │   ├── Modelfile
+│       │   │   ├── phi-4-Q4_K_M.gguf
+│       │   │   └── qwen2.5-7b-instruct-q4_0.gguf
+│       │   ├── DeepSeek-R1使用指南（简版）.pdf
+│       │   └── 安装和使用ollama运行大语言模型文字教程.docx
+│       ├── DeepSeek 本地部署 命令行版本（Ollama+DeepSeek R1 安装实例）
+│       │   └── DeepSeek本地部署（命令行版本）.docx
+│       ├── DeepSeek 懒人本地部署整合包（解压可用 一键启动）
+│       │   ├── DeepSeek一键部署安装包.zip
+│       │   └── DeepSeek一键部署安装步骤.docx
+│       ├── Deepseek R1 满血本地版
+│       │   ├── API.txt
+│       │   └── Deepseek R1 满血本地版，能免费白嫖1200万字！.pdf
+│       └── ~~教你三步在本地部署DeepSeek-R1（命令行版本）.docx(已读)~~
+├── ~~小心被骗（小心百度网盘加你好友的+++视频里任何联系方式）.txt (已读没啥用)~~
+└── 从入门到精通保姆级新手指导手册使用教程
+    ├── 10天精通+DeepSeek+实操手册.pdf
+    ├── DeepSeek 15天指导手册-从入门到精通.pdf
+    ├── DeepSeek 30条喂饭级指令（第一版）
+    │   ├── 1.jpg
+    │   ├── 2.jpg
+    │   ├── 3.jpg
+    │   ├── 4.jpg
+    │   ├── 5.jpg
+    │   ├── 6.jpg
+    │   └── 7.jpg
+    ├── DeepSeek 保姆级新手教程
+    │   ├── 01、Deepseek是什么？.docx
+    │   ├── 02、DEEPSEEK之【文学】.docx
+    │   ├── 03、DEEPSEEK之【做题】.docx
+    │   ├── 04、DeepSeek的使用方法 .docx
+    │   ├── 05、DeepSeek的使用技巧 - 01.docx
+    │   ├── 06、DeepSeek的使用技巧 - 02.docx
+    │   ├── 07、DeepSeek的使用技巧 - 03.docx
+    │   ├── 08、DeepSeek的使用技巧 - 04.docx
+    │   ├── 09、DeepSeek的使用技巧 - 05.docx
+    │   ├── 10、DeepSeek的使用技巧 - 06.docx
+    │   ├── 11、DeepSeek的使用技巧 - 07.docx
+    │   ├── 12、DeepSeek的使用技巧 - 08.docx
+    │   ├── 13、DeepSeek的使用技巧 - 09.docx
+    │   ├── 14、DeepSeek的使用技巧 - 10.docx
+    │   ├── 15、DeepSeek的使用技巧 - 11.docx
+    │   └── 16、DeepSeek的使用注意事项.docx
+    ├── DeepSeek+V3搭建个人知识库教程.pdf
+    ├── DeepSeek+个万能公式.pdf
+    ├── DeepSeek+搞钱教程（0基础入门）.pdf
+    ├── DeepSeek+万能提问模板.pdf
+    ├── DeepSeek+实用万能提问模板.pdf
+    ├── DeepSeek+提问攻略、使用实例和心得.pdf
+    ├── DeepSeek-30个喂饭指令.pdf
+    ├── DeepSeek-R1大模型嵌入Word教程.pdf
+    ├── DeepSeek使用攻略.pdf
+    ├── DeepSeek使用技巧大全
+    │   ├── 1000个DeepSeek神级提示词，让你轻松驾驭AI.docx
+    │   ├── 3个DeepSeek隐藏玩法，99%的人都不知道！.docx
+    │   ├── DeepSeek小白使用指南，99% 的人都不知道的使用技巧（建议收藏）docx.docx
+    │   ├── DeepSeek最强使用攻略，放弃复杂提示词，直接提问效果反而更好？.docx
+    │   ├── Deepseek 高效使用指南.docx
+    │   ├── Deepseek不好用，是你真的不会用啊！.docx
+    │   ├── deepseek 应该怎样提问.docx
+    │   ├── 当我用 DeepSeek 学习、工作和玩，惊艳！含提问攻略、使用实例和心得.docx
+    │   ├── 让你的DeepSeek能力翻倍的使用指南.docx
+    │   ├── 零基础使用DeepSeek高效提问技巧.docx
+    │   └── 如何正确使用deepseek？99%的人都错了.docx
+    ├── DeepSeek从入门到精通pdf+视频（清华）
+    │   ├── DeepSeek赋能职场分享.mp4
+    │   ├── DeepSeek从入门到精通.pdf
+    │   ├── DeepSeek多个应用场景讲解.mp4
+    │   ├── DeepSeek赋能职场（进阶）.pdf
+    │   └── 【清华大学】DeepSeek从入门到精通.mp4
+    ├── DeepSeek零基础到精通手册（保姆级教程）.pdf
+    ├── Deepseek+V3从零基础到精通学习手册.pdf
+    ├── 《7天精通DeepSeek实操手册》.pdf
+    ├── 高阶AI指令大合集   请疯传！.pdf
+    ├── 史上最全Deepseek喂饭保姆级别指令
+    │   ├── 史上最全Deepseek喂饭保姆级别指令 - DS十大万能提问公式 1-3.jpg
+    │   ├── 史上最全Deepseek喂饭保姆级别指令 - DS十大万能提问公式 4-7.jpg
+    │   ├── 史上最全Deepseek喂饭保姆级别指令 - DS十大万能提问公式 8-10.jpg
+    │   ├── 史上最全Deepseek喂饭保姆级别指令 - 创意创作.jpg
+    │   ├── 史上最全Deepseek喂饭保姆级别指令 - 学术研究.jpg
+    │   ├── 史上最全Deepseek喂饭保姆级别指令 - 生活服务.jpg
+    │   ├── 史上最全Deepseek喂饭保姆级别指令 - 编程开发.jpg
+    │   ├── 史上最全Deepseek喂饭保姆级别指令 - 职场办公.jpg
+    │   ├── 史上最全Deepseek喂饭保姆级别指令 - 高阶技巧.jpg
+    │   └── 史上最全Deepseek喂饭保姆级别指令 - 高阶使用技巧.jpg
+    ├── 教大家如何使用Deepseek AI进行超级降维知识输出V1.0版.pdf
+    ├── 【官网提示库】探索 DeepSeek 提示词样例，挖掘更多可能.docx
+    └── 【赠送】通用指令合集汇总
+        ├── 10种框架5种风格暖心治愈情感文案【指令+教程】.rar
+        ├── 5000字民间故事小说指令【指令+教程】.rar
+        ├── AI生成PPT【指令+教程】.rar
+        ├── AI生成散文【指令+教程】.rar
+        ├── AI写小说指令【指令+教程】.rar
+        ├── 打造个人IP文案指令【指令+教程】.rar
+        ├── 【微头条】10种框架文案【指令+教程】.rar
+        ├── 会议既要【指令+教程】.rar
+        ├── 公文写作【指令+教程】.rar
+        ├── 单词记忆【指令+教程】.rar
+        ├── 文字排版【指令+教程】.rar
+        ├── 教案板书【指令+视频教程】.rar
+        ├── 公众号推文【指令+教程】.rar
+        ├── 仿写文章指令【指令+教程】.rar
+        ├── 播客整理助手【指令+教程】.rar
+        ├── 高质量广告语【指令+教程】.rar
+        ├── 仿写名人语录【指令+视频教程】.rar
+        ├── 视频内容分析【指令+视频教程】.rar
+        ├── 项目复盘报告【指令+视频教程】.rar
+        ├── 小红书爆款文案【指令+教程】.rar
+        ├── 情绪化爆款文案【指令+教程】.rar
+        ├── 情绪化爆款标题【指令+教程】.rar
+        ├── 文案违禁词审查【指令+教程】.rar
+        ├── 朋友圈软广文案【指令+视频教程】.rar
+        ├── 口水话变口播文案【指令+教程】.rar
+        ├── 对标博主账号拆解【指令+教程】.rar
+        ├── 小红书种草类文案【指令+教程】.rar
+        ├── 爆款文案优化助手【指令+教程】.rar
+        ├── 英文文献阅读指令【指令+教程】.rar
+        ├── 利用记忆宫殿背课文【指令+教程】.rar
+        ├── 爆款短视频脚本文案【指令+教程】.rar
+        ├── 读书博主书单号文案【指令+教程】.rar
+        ├── 历史人物轶事解说文案【指令+教程】.rar
+        ├── 头条号大文章仿写指令【指令+教程】.rar
+        ├── 长文章变爆款口播文案【指令+教程】.rar
+        ├── 评论区金句引导回复指令【指令+教程】.rar
+        ├── 赛道关键词组合选题指令【指令+教程】.rar
+        ├── 爆款作品黄金发布时间指令【指令+教程】.rar
+        ├── 联网搜索节日热点产生文案【指令+视频教程】.rar
+        └── 联网搜热门话题，生成故事性文案【指令+视频教程】.rar
