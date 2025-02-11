@@ -1,56 +1,5 @@
 .
-├── 本地部署教程（全平台）
-│   ├── 手机本地部署教程
-│   │   ├── DeepSeek 手机离线部署教程(苹果)
-│   │   │   ├── DeepSeek 苹果手机离线部署.png
-│   │   │   └── DeepSeek 苹果手机离线部署步骤.docx
-│   │   ├── DeepSeek 手机离线部署教程（安卓）
-│   │   │   ├── DeepSeek安卓手机端本地部署步骤（新）.docx
-│   │   │   └── termux-app_v0.118.1+github-debug_arm64-v8a.apk
-│   │   └── 【手机版】Deepseek R1 满血版(671B模型)
-│   │       ├── API.txt
-│   │       └── 【手机版】Deepseek R1 满血版(671B模型).pdf
-│   └── 电脑本地部署教程
-│       ├── DeepSeek 本地部署 可视界面版（Ollama+Chatbox）
-│       │   ├── 1.安装文件
-│       │   │   ├── Chatbox-1.9.1-Setup.exe
-│       │   │   ├── MAC安装包
-│       │   │   │   ├── Ollama-darwin.zip
-│       │   │   │   └── chatbox
-│       │   │   │       ├── M系列芯片
-│       │   │   │       │   └── Chatbox-1.9.5-arm64.dmg
-│       │   │   │       └── inter芯片
-│       │   │   │           └── Chatbox-1.9.5.dmg
-│       │   │   └── OllamaSetup.exe
-│       │   ├── 2.视频教程
-│       │   │   ├── 1.电脑上安装ollama软件.mp4
-│       │   │   ├── 2.网页在线安装大模型.mp4
-│       │   │   ├── 3.电脑端本地导入大模型教程.mp4
-│       │   │   └── 4.安装chatbox用户界面并测试使用.mp4
-│       │   ├── 3.大模型
-│       │   │   ├── 2月更新Deepseek14B模型
-│       │   │   │   └── deepseek-r1-distill-qwen-14b-q4_k_m.gguf
-│       │   │   ├── 2月更新Deepseek32B模型
-│       │   │   │   └── 推荐N卡独显8g以上使用
-│       │   │   │       └── DeepSeek-R1-Distill-Qwen-32B-Q4_K_M.gguf
-│       │   │   ├── 2月更新Deepseek8B模型_
-│       │   │   │   └── DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf
-│       │   │   ├── DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf
-│       │   │   ├── Modelfile
-│       │   │   ├── phi-4-Q4_K_M.gguf
-│       │   │   └── qwen2.5-7b-instruct-q4_0.gguf
-│       │   ├── DeepSeek-R1使用指南（简版）.pdf
-│       │   └── 安装和使用ollama运行大语言模型文字教程.docx
-│       ├── DeepSeek 本地部署 命令行版本（Ollama+DeepSeek R1 安装实例）
-│       │   └── DeepSeek本地部署（命令行版本）.docx
-│       ├── DeepSeek 懒人本地部署整合包（解压可用 一键启动）
-│       │   ├── DeepSeek一键部署安装包.zip
-│       │   └── DeepSeek一键部署安装步骤.docx
-│       ├── ~~Deepseek R1 满血本地版(已读没啥用)~~
-│       │   ├── API.txt
-│       │   └── Deepseek R1 满血本地版，能免费白嫖1200万字！.pdf
-│       └── ~~教你三步在本地部署DeepSeek-R1（命令行版本）.docx(已读已掌握)~~
-├── ~~小心被骗（小心百度网盘加你好友的+++视频里任何联系方式）.txt (已读没啥用)~~
+
 └── 从入门到精通保姆级新手指导手册使用教程
     ├── 10天精通+DeepSeek+实操手册.pdf
     ├── DeepSeek 15天指导手册-从入门到精通.pdf
