@@ -5,6 +5,10 @@
 |:---:|:---:
 `Sat Feb  8 12:34:22 CST 2025` | -
 
+```
+launchctl setenv OLLAMA_MODELS "/Volumes/THAWSPACE/models"
+```
+
 
 ```bash
 curl localhost:11434
