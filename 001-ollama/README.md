@@ -6,6 +6,12 @@
 `Sat Feb  8 12:34:22 CST 2025` | -
 
 ```
+brew install ollama --cask
+
+ollama pull deepseek-r1:7b
+ollama pull deepseek-r1:8b
+ollama pull nomic-embed-text:latest
+
 launchctl setenv OLLAMA_MODELS "/Volumes/THAWSPACE/models"
 ```
 
